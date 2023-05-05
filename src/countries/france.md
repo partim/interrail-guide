@@ -2,8 +2,8 @@
 
 ## Validity
 
-Passes are valid on all trains and buses operated under their own name.
-This includes TGV Inoui but does _not_ include Ouigo trains.
+Passes are valid on all trains and buses operated by SNCF under their own
+name. This includes TGV Inoui but does _not_ include Ouigo trains.
 
 Metro services are not included. RER services in the Paris region that are
 operated by RATP are not included, those operated by SNCF are. _[Can
