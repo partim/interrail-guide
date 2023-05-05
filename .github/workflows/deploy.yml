@@ -16,6 +16,18 @@ jobs:
         mkdir mdbook
         curl -sSL $url | tar -xz --directory=./mdbook
         echo `pwd`/mdbook >> $GITHUB_PATH
-    - name: Deploy
+    - name: Build HTML
       run: |
         mdbook build
+    - name: Deploy HTML
+      shell: bash
+      env:
+        DEPLOY_KEY: ${{ secrets.deploy_key }}
+        KNOWN_HOSTS: ${{ secrets.known_hosts }}
+      run: |
+        eval $(ssh-agent -s)
+        ssh-add - <<<${DEPLOY_KEY}
+        mkdir ${HOME}/.ssh
+        echo "${KNOWN_HOSTS}" >> ${HOME}/.ssh/known_hosts
+        ssh-keygen -Hf ${HOME}/.ssh/known_hosts
+        time rsync -rltqF --include=/.well-known book/* deploy-interrail@skellig.partim.org:/var/lib/interrail/html/ --delete-after
