@@ -30,4 +30,4 @@ jobs:
         mkdir ${HOME}/.ssh
         echo "${KNOWN_HOSTS}" >> ${HOME}/.ssh/known_hosts
         ssh-keygen -Hf ${HOME}/.ssh/known_hosts
-        time rsync -rltqF --include=/.well-known book/* deploy-interrail@skellig.partim.org:/var/lib/interrail/html/ --delete-after
+        time rsync -rltF --include=/.well-known book/* deploy-interrail@skellig.partim.org:/var/lib/interrail/html/ --delete-after
