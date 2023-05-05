@@ -67,8 +67,8 @@ and the Normandy region, dubbed ‘Krono’ and ‘Krono+’, on these routes:
 * Paris – Rouen – Le Havre,
 * Paris – Dieppe (direct weekend services).
 
-These reservations are _only_ available from ticket machines _[which ones?]_
-and SNCF booking offices.
+These reservations are _only_ available from _Grand Lignes_ ticket machines 
+and SNCF booking offices at a price of EUR 1,70.
 
 
 ### Intercité de Nuit
