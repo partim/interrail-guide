@@ -1,0 +1,6 @@
+[book]
+authors = ["Martin Hoffmann"]
+language = "en"
+multilingual = false
+src = "src"
+title = "A Guide to Interrail/Eurail Reservations"
