@@ -5,6 +5,7 @@
 # Country Guides
 
 * [France](countries/france.md)
+* [Germany](countries/germany.md)
 * [Italy](countries/italy.md)
 * [Norway](countries/norway.md)
 * [Poland](countries/poland.md)
