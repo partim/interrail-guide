@@ -17,15 +17,16 @@ Heathrow Express.
 Reservations are not mandatory for day trains despite information provided
 otherwise. This has been confirmed by booking office and on-board staff.
 
-If you still want one, reservations can be purchased online from
+If you still want one, reservations can be acquired online free of charge
+from
 
-* [GWR](https://www.gwr.com/) free of charge for all train operators. You
+* [GWR](https://www.gwr.com/) for all train operators. You
   need to register an account and can then make reservations from the ‘My
-  Bookings’ section.
+  Bookings’ section,
 * [LNER](https://www.lner.co.uk/travel-information/make-a-reservation/)
   for LNER trains only.
 
-You can also get seat reservations for free from any booking office.
+You can also get seat reservations free of charge from any booking office.
 
 ### Sleeper Services
 
@@ -39,7 +40,7 @@ supplement only’ at the bottom of the ‘more options’ box. Prices are GBP
 for a double cabin while trying. Maybe they aren’t sold as supplement
 only?]_
 
-Reservations for a seats are free and aren’t sold online.
+Reservations for seats are free and aren’t sold online.
 
 Reservations for the Night Rivera cannot be made online.
 
