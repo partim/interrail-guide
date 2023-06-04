@@ -15,6 +15,14 @@ Passes are _not_ valid on Italo services.
 Passes are _not_ valid on any other local or regional railway company.
 
 
+## Timetables
+
+Timetables of the regional railway companies (on which Interrail is not
+valid) may not be included in the Railplanner app or other planning sites.
+They are, however, included in [Trenitalia’s travel
+planner](https://www.trenitalia.com/) and their apps.
+
+
 ## Reservations
 
 ### Le Frecce and Intercity
