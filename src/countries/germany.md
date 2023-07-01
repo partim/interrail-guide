@@ -18,8 +18,8 @@ They can be booked online from:
 
 * [Deutsche Bahn](https://www.bahn.de) – choose ‘Seat only’ rather than
   ’Search’ at the bottom of the ‘Where do you want to go’ box.
-  Reservations cost EUR 4,50 per person per trip (i.e., even if you use
-  multiple trains).
+  Reservations cost EUR 4,90 per person per trip (i.e., even if you use
+  multiple trains) in second class and EUR 5,90 in first.
 * [Trainplanet](https://trainplanet.com/) for EUR 4 in second and EUR 5 in
   first class per person per trip.
 * [ÖBB](https://shop.oebbtickets.at) for EUR 3 per person and train (!) in
