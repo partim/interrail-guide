@@ -32,5 +32,3 @@ worry about that, the correct prices are shown once you select a connection.
 
 Reservations can also be booked at Entur booking office in Bergen, Stavanger,
 Trondheim, Oslo, and Olso airport.
-
-
